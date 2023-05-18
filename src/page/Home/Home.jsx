@@ -1,5 +1,5 @@
 import React from 'react'
-import Categories from '../../components/Categories.jsx/Categories';
+import Categories from '../../components/Categories/Categories';
 import Slider from '../../components/Slider/Slider';
 import FeatureProducts from '../../components/FeatureProducts/FeatureProducts';
 import Contact from '../../components/Contact/Contact';
